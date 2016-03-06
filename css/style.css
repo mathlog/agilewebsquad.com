@@ -1778,9 +1778,30 @@ ul.caret-list li:before {
     }
 } 
 @media (max-width: 480px) {
+	.header-top .navbar .container{
+		margin:none;
+		padding:none;
+		width:100%;
+	}
+  .navbar-header {
+		margin:none;
+		padding:none;
+  	width:100%;
+  }
+  .navbar-header a  img{
+  	margin-top: .5em;
+  	float:left;
+   	width:50%;
+  }
   .btn-responsive {
     font-size:90%;
   }
+  
+  .container img{
+  	width:105%;
+  	margin-left:-2.5%;
+  }
+  
 }
 @media (min-width: 769px) and (max-width: 992px) {
   .btn-responsive {
