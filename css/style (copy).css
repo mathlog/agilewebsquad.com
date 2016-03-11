@@ -125,6 +125,9 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 	padding: 15px 40px;
 }
 
+.iconHome {
+	width:1.5em;
+}
 
 /* Color Schemes
 =================================================================== */
@@ -357,7 +360,9 @@ h4 small {
 h5 small {
 	font-size: 13px;
 }
-
+.iconHome {
+	width:1.5em;
+}
 }
 @media (min-width: 480px) {
 h1 {
@@ -386,7 +391,9 @@ h3 {
 h3 small {
 	font-size: 34px;	
 }
-
+.iconHome {
+	width:1.5em;
+}
 }
 @media (min-width: 768px) {
 h1 {
@@ -408,7 +415,9 @@ h2 {
 h2 small {
 	font-size: 50px;
 }
-
+.iconHome {
+	width:1.5em;
+}
 }
 @media (min-width: 992px) {
 h1 {
@@ -430,7 +439,9 @@ h2 {
 h2 small {
 	font-size: 50px;
 }
-
+.iconHome {
+	width:1.5em;
+}
 }
 @media (min-width: 1200px) {
 h1 {
@@ -452,9 +463,13 @@ h2 {
 h2 small {
 	font-size: 50px;
 }
-
+.iconHome {
+	width:1.5em;
 }
-
+}
+.iconHome {
+	width:1.5em;
+}
 /* ==== 3) Home ==== */
 /******************slider**************************/
 .header-show .navbar-default {
@@ -745,14 +760,18 @@ h2 small {
     .dropdown:hover .dropdown-menu {
         display: block;
     }
-
+    .iconHome {
+	width:1.5em;
+}
 }
 @media (max-width: 768px) {
    .navbar-collapse {
       max-height: none;
       overflow-x: hidden;
    }
-
+   .iconHome {
+	width:1.5em;
+}
 }
 .dropdown-menu {
 	font-size: 13px;
@@ -869,7 +888,9 @@ h2 small {
         text-decoration: none;
         background-color: transparent!important;
     }
-
+    .iconHome {
+	width:1.5em;
+}
 }
 /* ==== Site Wrapper ==== */
 .site-wrapper {
@@ -896,7 +917,7 @@ h2 small {
 }
 .iconHome {
 	inherit:none;
-width:1.5em!important;
+
 	height:1.5em;
 } 
 .about-info {
@@ -1022,7 +1043,9 @@ width:110px;
 	font-size: 13px;
 	line-height: 0px;
 }
-
+.iconHome {
+	width:1.5em;
+} 
 /* ========================================================================
   6 Component: Processes
  ========================================================================== */
@@ -1463,14 +1486,18 @@ a.buy:hover {
     .action-5-info h3 small {
         font-size: 20px;
     }
-
+    .iconHome {
+	width:1.5em;
+} 
 }
 @media (min-width: 768px) {
     .action-5-info h3,
     .action-5-info h3 small {
         font-size: 22px;
     } 
-
+    .iconHome {
+	width:1.5em;
+}
 }
 /* ==== 13) Portfolio ==== */
 #our-work {
@@ -2166,13 +2193,17 @@ ul.caret-list li:before {
         display: table-cell;
         vertical-align: middle;
     }
-
+    .iconHome {
+	width:1.5em;
+}
 }
 @media (max-width: 180px) {
     .action-5-btn {
     padding: 20px 0 20px 20px;
     }
-
+    .iconHome {
+	width:1.5em;
+}
 } 
 @media (max-width: 480px) {
 	.header-top .navbar .container{
@@ -2198,13 +2229,17 @@ ul.caret-list li:before {
   	width:105%;
   	margin-left:-2.5%;
   }
-
+  .iconHome {
+	width:1.5em;
+}
 }
 @media (min-width: 769px) and (max-width: 992px) {
   .btn-responsive {
     font-size:100%;
   }
-
+  .iconHome {
+	width:1.5em;
+}
 }
 .panel-title:hover {
      cursor: pointer;
