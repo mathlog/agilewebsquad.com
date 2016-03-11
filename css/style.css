@@ -125,6 +125,9 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
 	padding: 15px 40px;
 }
 
+.iconHome {
+	width:1.5em;
+}
 
 /* Color Schemes
 =================================================================== */
