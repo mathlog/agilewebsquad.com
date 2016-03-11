@@ -4,10 +4,10 @@ Blue Color Skin
 =============================================== */
 
 ::-moz-selection {
- background: #00addf;
+ background: #1A4F72;
 }
 ::selection {
-	background: #00addf;
+	background: #1A4F72;
 }
 
 .btn-home a,
@@ -25,7 +25,7 @@ Blue Color Skin
 .nav > li > a:hover, .nav > li > a:focus,
 .shop-btn-box:hover,
 .pagination > .active > a {
-	background: #00addf;
+	background: #1A4F72;
 }
 
 
@@ -58,18 +58,18 @@ figure figcaption a:hover,
 .twitter-logo .fa,
 .footer-logo a:hover
  {
-	color: #00addf;
+	color: #1A4F72;
 }
 
 
 .phone-info {
-	background: rgba(0, 187, 240, 0.2);
+	background: rgba(91, 141, 188, 0.2);
 }
 
 .cbp-l-filters-button .cbp-filter-counter:before {
-	border-top: 4px solid #00addf;
+	border-top: 4px solid #1A4F72;
 }
 
 .btn-home a {
-    box-shadow: 0 3px 0 rgba(0, 187, 240, .5);
+    box-shadow: 0 3px 0 rgba(91, 141, 188, .5);
 }
