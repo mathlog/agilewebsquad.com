@@ -91,6 +91,12 @@ Sticky Navbar
 
 $(document).ready(function(){
     $(".navbar").sticky({topSpacing:0});
+    
+    var lang = navigator.language || navigator.userLanguage; 
+    if (lang === 'en-US') {
+      console.log("language is english");
+    };
+    
 });
 
 /* ==============================================
