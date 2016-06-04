@@ -268,7 +268,7 @@ input[type="file"] > input[type="button"]::-moz-focus-inner {
     display: block;
     height: 1px;
     content: " ";
-    width: 40%;
+    width: 35%;
     position: absolute;
     top: 0.53em;
 	z-index: 1;
