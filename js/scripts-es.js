@@ -1055,4 +1055,8 @@ if (isMouseWheelSupported && isChrome) {
 	addEvent("load", init);
 };
 
+<<<<<<< HEAD
 })();
+=======
+})();
+>>>>>>> e91b84b50b8b7fca2606f396851cf907045f7fda
